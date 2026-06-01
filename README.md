@@ -96,11 +96,15 @@
   </a>
 </div>
 
-###
+<h3 align="center">🎮 Contribution Arcade</h3>
 
-<img src="https://raw.githubusercontent.com/abid-root/abid-root/snake-output/snake.svg" alt="Snake animation" />
-
-###
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/abid-root/abid-root/output/pacman-contribution-graph-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/abid-root/abid-root/output/pacman-contribution-graph.svg">
+    <img alt="Pacman contribution graph" src="https://raw.githubusercontent.com/abid-root/abid-root/output/pacman-contribution-graph.svg">
+  </picture>
+</p>
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="40" alt="javascript logo"  />
